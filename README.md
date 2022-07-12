@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Header](https://user-images.githubusercontent.com/101399811/178598367-6a09e318-e788-40af-b289-76d24abbf27e.png)
+
+Feel free to follow along with my adventures in code![Mangeky%3F_Sharingan_Kakashi](https://user-images.githubusercontent.com/101399811/178599393-9e24a577-3b49-4ed0-9ff3-1ddc45b90c68.png)
+
+
 <!--
 **Dnayir/Dnayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
