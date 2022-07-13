@@ -2,7 +2,7 @@
 
 ![Header](https://user-images.githubusercontent.com/101399811/178598367-6a09e318-e788-40af-b289-76d24abbf27e.png)
 
-Feel free to follow along with my adventures in code😁
+Feel free to follow along my adventures in code😁
 
 
 <!--
